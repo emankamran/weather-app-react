@@ -63,7 +63,7 @@ const Display = (props) => {
             </tr>
           </thead>
 
-          <tbody className="bg-yellow-100">
+          <tbody className="">
             <tr>
               <td className="border px-4 py-2 ">{name}</td>
               <td className="border px-4 py-2">
